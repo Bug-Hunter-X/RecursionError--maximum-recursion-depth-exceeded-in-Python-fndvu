@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: exceeding the maximum recursion depth. The provided code implements a recursive function to calculate the sum of numbers from 1 to x. When the input x is large, the program raises a RecursionError because Python's recursion depth is limited. The solution offers an iterative approach to resolve this issue.
